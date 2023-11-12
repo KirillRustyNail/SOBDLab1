@@ -1,0 +1,8 @@
+### Python ###
+# Jupyter Notebook
+.ipynb_checkpoints
+analysis.ipynb
+
+# Data folders
+data/
+SOBD2022/
